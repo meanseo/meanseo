@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meanseo&show_icons=true&theme=nightowl)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meanseo)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeanseo%2Fnohhongju&count_bg=%236700D5&title_bg=%23545354&icon=pinboard.svg&icon_color=%23EAEAEA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
