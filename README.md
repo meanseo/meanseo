@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meanseo&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meanseo&layout=compact&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meanseo&layout=compact&theme=material-palenight)
